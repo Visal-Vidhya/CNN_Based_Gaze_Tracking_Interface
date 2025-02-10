@@ -30,4 +30,121 @@ If you find this repository helpful in your research or project, please consider
 Be sure to adjust the file paths and model names as needed throughout the process.
 Feel free to experiment with different parameters during model training for better results.
 
+Eye Gaze Tracking using CNN – Open Source Code
+
+Overview
+
+This repository provides the open-source implementation of Eye Gaze Tracking using CNN,
+
+developed as part of our research work:
+
+� Reference Paper:
+
+"Real-Time Gaze Estimation Using Webcam-Based CNN Models for Human-Computer
+
+Interaction"
+
+� Authors: Visal Vidhya, Diego Resende Faria
+
+� Publication Date: February 2025
+
+� Journal: Computers (MDPI)
+
+How to Cite
+
+If you use this code in your research, publications, or projects, you must cite our work as follows:
+
+bibtex
+
+CopyEdit
+
+@article{VidhyaFaria2025,
+
+author = {Visal Vidhya and Diego Resende Faria},
+ 
+title = {Real-Time Gaze Estimation Using Webcam-Based CNN Models for Human-
+
+Computer Interaction},
+ 
+journal = {Computers},
+
+publisher = {MDPI},
+
+year = {2025},
+
+month = {February}
+
+}
+
+� Proper citation is mandatory when using this code.
+ 
+License & Usage Policy
+
+This code is provided strictly for research and personal use only under the following conditions:
+
+✔ Allowed Usage:
+
+✅ Academic research
+
+✅ Personal projects
+
+✅ Non-commercial studies
+
+❌ Prohibited Usage:
+
+⛔ Commercial applications, services, or products
+
+⛔ Industrial deployment or commercial research without explicit permission
+
+⛔ Redistribution of the code without proper citation
+ 
+2
+ 
+Data Privacy & Model Limitations
+
+⚠ Important Note:
+
+• This model is trained on data from only 8 individuals, which may not generalize well to
+
+other users.
+
+• If you wish to use this for broader applications, you might need to retrain the model on a
+
+larger, more diverse dataset.
+ 
+Disclaimer & Liability
+
+⚠ No Warranty & No Guarantee of Accuracy
+
+• This software is provided "as-is" without any guarantees or warranties of accuracy,
+
+performance, or reliability.
+
+• The authors are not responsible for any issues, inaccuracies, or unintended
+
+consequences that may arise from using this code.
+ 
+• Users assume full responsibility for validating and verifying the output before any real-
+
+world application.
+ 
+� By using this code, you agree that the authors are not liable for any direct, indirect,
+
+incidental, or consequential damages resulting from its use.
+ 
+Contributing
+
+Contributions are welcome for academic and research improvements only.
+
+To contribute.
+ 
+Contact & Support
+
+For any academic inquiries or collaboration requests, please contact:
+
+✉ [ vishalvidhya95@gmail.com and/or fariadiego@gmail.com ]
+
+� Remember: This code is NOT for commercial use!
+ 
+
 Cheers!
